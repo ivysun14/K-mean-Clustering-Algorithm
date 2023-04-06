@@ -12,4 +12,4 @@ This repository contains the python code for a K-mean clustering algorithm desig
 
 The input to the clustering function should be a data matrix, and the desired cluster number k needed to be inputted as well.
 
-The same data set is then used to train a BIRCH clustering model using the Scikit-learn library. Between the two methods, a comparison on their respective cluster means under different k values is made.
+The same data set is then used to train a BIRCH clustering model using the Scikit-learn library. Between the two methods, a comparison on their respective cluster means under different k values is made. The project was completed in the class CS CM121 Introduction to Bioinformatics at UCLA.
